@@ -1,4 +1,4 @@
-# ANMSDTI
+# HMMF-MPP
 
 - HMMP-MPP HMMF-MPP performs molecular property prediction via hierarchical multi-modal fusion with mixture-of-experts, enabling adaptive intra- and inter-modal fusion for enhanced generalization.
 
